@@ -37,7 +37,6 @@
 ---
 
 ## 🎨 Fun Extras
-- 🎬 Coding GIF:  
   ![Coding GIF](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)  
 
 - 📌 Sharing my journey through projects, blogs, and open-source contributions — always evolving and growing.
