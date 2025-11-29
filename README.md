@@ -18,9 +18,6 @@
 
 ## 📊 GitHub Stats
 ![Profile views](https://komarev.com/ghpvc/?username=ram-bhagat-thakur&color=blue)  
-![GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ram-bhagat-thakur&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ram-bhagat-thakur&layout=compact&theme=radical)
-![GitHub Streak](https://streak-stats.demolab.com/?user=ram-bhagat-thakur&theme=radical)
 
 ---
 
@@ -40,9 +37,6 @@
 ---
 
 ## 🎨 Fun Extras
-- 🏆 Visitor Counter:  
-  ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/ram-bhagat-thakur&title=Profile%20Visitors)
-
 - 🎬 Coding GIF:  
   ![Coding GIF](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)  
 
